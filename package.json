@@ -1,0 +1,19 @@
+{
+  "name": "electrifier",
+  "version": "0.0.1",
+  "description": "Turn any site into a desktop application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottblechman/electrifier.git"
+  },
+  "author": "Scott Blechman <scott@scottblechman.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottblechman/electrifier/issues"
+  },
+  "homepage": "https://github.com/scottblechman/electrifier#readme"
+}
